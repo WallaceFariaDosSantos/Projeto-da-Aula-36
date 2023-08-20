@@ -1,2 +1,1 @@
-# Projeto-da-Aula-36
-Projeto da aula 36
+# PRO-V2-C36-Modelo-Projeto
